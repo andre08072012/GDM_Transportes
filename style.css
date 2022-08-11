@@ -82,6 +82,16 @@ body{
     }
 }
 
+.fone h1{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 10px;
+    font-family: 'Comfortaa', cursive;
+    background: #00689d;
+    color: #fff;
+}
+
 h2{
     color: #00689d;
     text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
